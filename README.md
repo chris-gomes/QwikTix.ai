@@ -1,4 +1,6 @@
-# 3200project
+# QwikTix.ai
+
+This is a final project for a Database Design class.
 
 Our application source code is a python file, qwiktix.py.
 
